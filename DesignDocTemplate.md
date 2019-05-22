@@ -1,4 +1,4 @@
-# \[project Name\]
+# \[Project Name\]
 
 ## Overview
 
